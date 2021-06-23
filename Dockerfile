@@ -11,5 +11,3 @@ ENTRYPOINT ["/usr/sbin/httpd"]
 CMD ["-D", "FOREGROUND"]
 
 COPY .  /var/www/html/
-
-
