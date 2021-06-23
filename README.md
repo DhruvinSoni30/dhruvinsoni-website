@@ -9,5 +9,9 @@ In this, I have developed the docker image for my website and pushed it on the d
  
 # Run the below command
     docker run -it -d -p 8080:80 --name=dhsoni-website dhsoniweb:latest
+    
+# You should see output like below
+![home page](https://github.com/DhruvinSoni30/Images/blob/main/website.png?raw=true)
+
 
 
